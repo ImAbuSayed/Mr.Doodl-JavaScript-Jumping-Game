@@ -1,0 +1,2 @@
+# Mr.Doodl-JavaScript-Jumping-Game
+Mr. Doodl Jump Game is a simple project developed using HTML5, CSS, and JavaScript. This game is a simple platformer game similar to Mario with the same controls and objectives. The user has to jump over titles/blocks in order to move upwards and also gain score points. You can use the arrow keys to move your doodler from the left to the right side and jump upward.
